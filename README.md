@@ -2,11 +2,10 @@
 
 Hi, this is Poorva 
 
-Tech stack:
-*** Languages *** C, C++, Java, Python, SQL, Bash
+
 ### 🛠 Tech Stack
 
-**Languages:** Python, SQL, Bash  
+**Languages:** Python, SQL, Bash, C, C++, Java
 **Data Engineering:** Airflow, Spark (PySpark), Kafka, dbt  
 **Databases:** PostgreSQL, BigQuery, Snowflake  
 **Cloud:** AWS (S3, Glue, Lambda), Docker, GitHub Actions  
