@@ -4,6 +4,15 @@ Hi, this is Poorva
 
 Tech stack:
 *** Languages *** C, C++, Java, Python, SQL, Bash
+### 🛠 Tech Stack
+
+**Languages:** Python, SQL, Bash  
+**Data Engineering:** Airflow, Spark (PySpark), Kafka, dbt  
+**Databases:** PostgreSQL, BigQuery, Snowflake  
+**Cloud:** AWS (S3, Glue, Lambda), Docker, GitHub Actions  
+**Analytics & BI:** Pandas, Power BI, Tableau  
+**Data Quality:** Great Expectations, Data Modeling
+
 <!--
 **PoorvaMorvekar/PoorvaMorvekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
