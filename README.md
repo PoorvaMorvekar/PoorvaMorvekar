@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 Hi, this is Poorva 
+
+Tech stack:
+*** Languages *** C, C++, Java, Python, SQL, Bash
 <!--
 **PoorvaMorvekar/PoorvaMorvekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
